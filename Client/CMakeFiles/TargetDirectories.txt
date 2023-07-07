@@ -1,0 +1,8 @@
+D:/cppDesign/Client/CMakeFiles/Client.dir
+D:/cppDesign/Client/CMakeFiles/edit_cache.dir
+D:/cppDesign/Client/CMakeFiles/rebuild_cache.dir
+D:/cppDesign/Client/CMakeFiles/list_install_components.dir
+D:/cppDesign/Client/CMakeFiles/install.dir
+D:/cppDesign/Client/CMakeFiles/install/local.dir
+D:/cppDesign/Client/CMakeFiles/Client_autogen_timestamp_deps.dir
+D:/cppDesign/Client/CMakeFiles/Client_autogen.dir
