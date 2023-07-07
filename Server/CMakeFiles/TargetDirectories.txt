@@ -1,0 +1,8 @@
+D:/cppDesign/Server/CMakeFiles/Server.dir
+D:/cppDesign/Server/CMakeFiles/edit_cache.dir
+D:/cppDesign/Server/CMakeFiles/rebuild_cache.dir
+D:/cppDesign/Server/CMakeFiles/list_install_components.dir
+D:/cppDesign/Server/CMakeFiles/install.dir
+D:/cppDesign/Server/CMakeFiles/install/local.dir
+D:/cppDesign/Server/CMakeFiles/Server_autogen_timestamp_deps.dir
+D:/cppDesign/Server/CMakeFiles/Server_autogen.dir
